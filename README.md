@@ -17,5 +17,5 @@ didimora - Milan, Italy
 SWG - Trieste, Italy
 
 ## Education
-- Ph.D,, Physics, International School for Advanced Studies (SISSA), Italy (_2021_)
+- Ph.D, Physics, International School for Advanced Studies (SISSA), Italy (_2021_)
 - M.Sc., Physics, University of Milan (_2017_)  
